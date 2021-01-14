@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.vscode
+*.o
+c/brainfuck
+cpp/brainfuck
