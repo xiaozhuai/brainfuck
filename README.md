@@ -1,5 +1,7 @@
 # Brainfuck
 
+[English](README.md) [中文](README_CN.md)
+
 Multi-language implementation of Brainfuck interpreter.
 
 No limit at all! Do what fuck you want!

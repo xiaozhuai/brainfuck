@@ -1,6 +1,8 @@
 # Brainfuck
 
-多种语言的 Brainfuck 解释器实现。
+[English](README.md) [中文](README_CN.md)
+
+各种语言的 Brainfuck 解释器实现。
 
 此项目不受任何限制！Do what fuck you want！
 
